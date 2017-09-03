@@ -1,0 +1,31 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\Unity\Projects\Kurse_work_v1.0\12.09\modge_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\Unity\Projects\Kurse_work_v1.0\12.09\modge_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\Unity\Projects\Kurse_work_v1.0\12.09\modge_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading Z:\Unity\Projects\Kurse_work_v1.0\12.09\modge_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: Z:\Unity\Projects\Kurse_work_v1.0\12.09\modge_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\Unity\Projects\Kurse_work_v1.0\12.09\modge_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\Unity\Projects\Kurse_work_v1.0\12.09\modge_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\Unity\Projects\Kurse_work_v1.0\12.09\modge_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\Unity\Projects\Kurse_work_v1.0\12.09\modge_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\Unity\Projects\Kurse_work_v1.0\12.09\modge_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: Z:\Unity\Projects\Kurse_work_v1.0\12.09\modge_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.184 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: Z:\Unity\Projects\Kurse_work_v1.0\12.09\modge_Data\Managed\System.dll (this message is harmless)
+Warning: no main camera found. Ball needs a Camera tagged "MainCamera", for camera-relative controls.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: fb0 -> priority: 1 
