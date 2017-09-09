@@ -23,3 +23,12 @@ During the software development the following technologies have being used: Unit
 ![alt text](https://github.com/dmytroshytyi/LuckyBall/blob/master/screenshots/6.jpg "Screenshot 6")
 
 
+//authors: Dmytro Shytyi
+//email: dmytro@shytyi.net
+//website: http://shytyi.net
+//website: http://dmytro.shytyi.net
+//license: BSD
+//Please feel free to use and modify this, but keep the above information. Thanks!
+
+
+
